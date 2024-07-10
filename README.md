@@ -27,8 +27,8 @@ This project involves building a scalable data pipeline to process New York Taxi
    The data_analysis.py script will generate SQL queries to answer key questions and create visualizations.
 
    Questions Answered
-   What are the peak hours for taxi usage?
-   How does passenger count affect the trip fare?
-   What are the trends in usage over the year?
+   1. What are the peak hours for taxi usage?
+   2. How does passenger count affect the trip fare?
+   3. What are the trends in usage over the year?
 
    The analysis results will be visualized using.
