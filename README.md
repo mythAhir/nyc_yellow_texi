@@ -16,3 +16,19 @@ This project involves building a scalable data pipeline to process New York Taxi
    ```bash
    git clone <your-repository-url>
    cd <repository-directory>
+2. **Code Execution Steps**:
+   ```bash
+   1. python data_extraction.py
+   2. python data_processing.py
+   3. python data_loading.py
+   4. python data_analysis.py
+
+3. **Data Analysis**:
+   The data_analysis.py script will generate SQL queries to answer key questions and create visualizations.
+
+   Questions Answered
+   What are the peak hours for taxi usage?
+   How does passenger count affect the trip fare?
+   What are the trends in usage over the year?
+
+   The analysis results will be visualized using.
